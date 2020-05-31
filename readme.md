@@ -1,6 +1,6 @@
 ##  0.readme
 
-两个小程序：
+
 
 - [0.深度信息处理](https://github.com/juniorxsound/ThreadedDepthCleaner)
 
